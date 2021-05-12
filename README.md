@@ -10,12 +10,17 @@ Trentman et al. Characterizing bioavailable phosphorus concentrations in an agri
 
 "Full dataset" is the entire dataset used in this paper.
 
-Sigma plot data. Regretably, Sigma Plot was used to make multiple figures. Below are the files for those figures 
+Sigma plot data. Regretably, Sigma Plot was used to make multiple figures. Below are the files for those figures.
+
 "Data for storm 1" is just the data from storm 1 used to make figures 3 and 6
+
 "Data for storm 2" is just data from storm 2 used to make figures 5 and 6
+
 "Data for dredge event" is just data from the dredge event used to make figure 4
 
 R data.
 Figure 7 was made in R.
+
 "data for figure 7" is the data loaded into R for figure 7
+
 "code for figure 7" is the code used to make figure 7
